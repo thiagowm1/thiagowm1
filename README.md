@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://cr7v.short.gy/MeuInsta@thg_trb7_
+#EXTM3U url-tvg="https://www.instagram.com/thg_trb7_
 
 ################################################# ######################### Informações
 
