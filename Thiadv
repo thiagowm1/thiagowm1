@@ -11,13 +11,12 @@ http://manoplus.ddns.net/mano.mp4
 https://snippet.host/qtoray/raw
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",TV Mirante HD
 http://15.235.15.230:14499/MANOTV
-http://14225021914.com:80/961154919/f3302346g/18253
+
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RN FHD
 http://170.80.157.9:90/CANAL-RN-002/mpegts?token=ZAZTV
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo Anhanguera HD
-http://5ce.co:80/pamelaflores/92446060a/35751
-
+http://14225021914.com:80/961154919/f3302346g/18253
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo Anhanguera HD [Alterar]
 http://t2tp.xyz/343963665/370954400/71395
 
