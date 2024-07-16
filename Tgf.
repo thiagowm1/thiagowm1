@@ -418,4 +418,58 @@ http://14225021914.com:80/961154919/f302346g/2380
 #EXTINF:-1 tvg-id="Globominas.br" tvg-name="Globo Minas UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo Minas UHD
 http://14225021914.com:80/961154919/f302346g/21341
 #EXTINF:-1 tvg-id="Globominas.br" tvg-name="Globo Minas HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo Minas HD
-http://1422502
+http://1422502#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERY%20CHANNE.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL FHD H265
+http://infraz.top:80/3ujm43v/6gkru59/114.ts
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERY%20CHANNE.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL FHD H265²
+http://infraz.top:80/3ujm43v/6gkru59/234801.ts
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD²" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERY%20CHANNE.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL FHD²
+http://infraz.top:80/3ujm43v/6gkru59/234802.ts
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERY%20CHANNE.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL HD
+http://infraz.top:80/3ujm43v/6gkru59/342.ts
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD²" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERY%20CHANNE.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL HD²
+http://infraz.top:80/3ujm43v/6gkru59/234803.ts
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERY%20CHANNE.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL SD
+http://infraz.top:80/3ujm43v/6gkru59/222.ts
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD²" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERY%20CHANNE.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL SD²
+http://infraz.top:80/3ujm43v/6gkru59/234804.ts
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H FHD H265" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYHeH.jpg" group-title="CANAIS | DISCOVERY",DISCOVERY H&H FHD H265
+http://infraz.top:80/3ujm43v/6gkru59/135.ts
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H FHD H265²" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYHeH.jpg" group-title="CANAIS | DISCOVERY",DISCOVERY H&H FHD H265²
+http://infraz.top:80/3ujm43v/6gkru59/234805.ts
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H FHD²" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYHeH.jpg" group-title="CANAIS | DISCOVERY",DISCOVERY H&H FHD²
+http://infraz.top:80/3ujm43v/6gkru59/234806.ts
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H HD" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYHeH.jpg" group-title="CANAIS | DISCOVERY",DISCOVERY H&H HD
+http://infraz.top:80/3ujm43v/6gkru59/343.ts
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H HD²" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYHeH.jpg" group-title="CANAIS | DISCOVERY",DISCOVERY H&H HD²
+http://infraz.top:80/3ujm43v/6gkru59/234807.ts
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H SD" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYHeH.jpg" group-title="CANAIS | DISCOVERY",DISCOVERY H&H SD
+http://infraz.top:80/3ujm43v/6gkru59/223.ts
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H SD²" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYHeH.jpg" group-title="CANAIS | DISCOVERY",DISCOVERY H&H SD²
+http://infraz.top:80/3ujm43v/6gkru59/234808.ts
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERY%20KIDS.jpg" group-title="CANAIS | INFANTIS",DISCOVERY KIDS FHD H265
+http://infraz.top:80/3ujm43v/6gkru59/83.ts
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD H265²" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERY%20KIDS.jpg" group-title="CANAIS | INFANTIS",DISCOVERY KIDS FHD H265²
+http://infraz.top:80/3ujm43v/6gkru59/234809.ts
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD²" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERY%20KIDS.jpg" group-title="CANAIS | INFANTIS",DISCOVERY KIDS FHD²
+http://infraz.top:80/3ujm43v/6gkru59/234810.ts
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERY%20KIDS.jpg" group-title="CANAIS | INFANTIS",DISCOVERY KIDS HD
+http://infraz.top:80/3ujm43v/6gkru59/267.ts
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD²" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERY%20KIDS.jpg" group-title="CANAIS | INFANTIS",DISCOVERY KIDS HD²
+http://infraz.top:80/3ujm43v/6gkru59/234811.ts
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERY%20KIDS.jpg" group-title="CANAIS | INFANTIS",DISCOVERY KIDS SD
+http://infraz.top:80/3ujm43v/6gkru59/224.ts
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD²" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERY%20KIDS.jpg" group-title="CANAIS | INFANTIS",DISCOVERY KIDS SD²
+http://infraz.top:80/3ujm43v/6gkru59/234812.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD H265" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYSCIENCE.jpg" group-title="CANAIS | DISCOVERY",DISCOVERY SCIENCE FHD H265
+http://infraz.top:80/3ujm43v/6gkru59/121.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD H265²" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYSCIENCE.jpg" group-title="CANAIS | DISCOVERY",DISCOVERY SCIENCE FHD H265²
+http://infraz.top:80/3ujm43v/6gkru59/234813.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD²" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYSCIENCE.jpg" group-title="CANAIS | DISCOVERY",DISCOVERY SCIENCE FHD²
+http://infraz.top:80/3ujm43v/6gkru59/234814.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYSCIENCE.jpg" group-title="CANAIS | DISCOVERY",DISCOVERY SCIENCE HD
+http://infraz.top:80/3ujm43v/6gkru59/344.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD²" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYSCIENCE.jpg" group-title="CANAIS | DISCOVERY",DISCOVERY SCIENCE HD²
+http://infraz.top:80/3ujm43v/6gkru59/234815.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE SD²" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYSCIENCE.jpg" group-title="CANAIS | DISCOVERY",DISCOVERY SCIENCE SD²
+http://infraz.top:80/3ujm43v/6gkru59/234816.ts
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER FHD H265" 
